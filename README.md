@@ -1,6 +1,6 @@
 # Complete JavaScript 
 
-## Chapter-1 Data types and Operators
+## -1 Data types and Operators
 
 ### Data types
 
