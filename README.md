@@ -9,7 +9,7 @@
 ```javascript
 var myName = "Nimesh Lathiya";
 console.log(myName); // Nimesh Lathiya
-console.log(typeof myName); // string
+console.log(typeof myName); // 
 ```
 
 #### Number
