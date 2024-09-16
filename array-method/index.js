@@ -1,6 +1,6 @@
 //~javascript array
 
-const cars = ["", "Volvo", "BMW"];
+const cars = ["Saab", "Volvo", "BMW"];
 
 
 //TODO ARRAY TO STRING
