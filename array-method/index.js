@@ -8,7 +8,7 @@ const fruits = ["Banana", "Orange", "Apple", "Mango"];
 
 const sfruits = fruits.toString();
 
-console.log()
+console.log(sfruits)
 //Banana,Orange,Apple,Mango
 
 //TODO ARRAY JOIN
