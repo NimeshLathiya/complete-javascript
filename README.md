@@ -1,4 +1,4 @@
-# Complete JavaScript 
+ 
 
 ## Chapter-1 Data types and Operators
 
