@@ -1,7 +1,7 @@
 let count = 0;
 
 const updateCount = () => {
-  
+    count++;
 };
 
 updateCount(); //1
